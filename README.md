@@ -1,1 +1,9 @@
-# Integration_Testing_Java
+# JUnit實作整合測試
+這個程式針對購物車程式碼撰寫整合測試，確保程式中每個單元(function)正常運作同時，彼此功能也不會互相影響
+
+## 使用技術
+* 語言：Java
+
+* 套件：
+  * JUnit 5
+
